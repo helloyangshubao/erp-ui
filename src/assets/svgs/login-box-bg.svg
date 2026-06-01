@@ -1,0 +1,110 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 700" role="img" aria-labelledby="title desc">
+  <title id="title">Cloud kitchen ERP dashboard illustration</title>
+  <desc id="desc">Original login illustration with a cloud, kitchen ERP dashboard, charts, and delivery elements.</desc>
+  <defs>
+    <linearGradient id="blue" x1="80" x2="620" y1="130" y2="610" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#39a7ff"/>
+      <stop offset="1" stop-color="#1557d6"/>
+    </linearGradient>
+    <linearGradient id="cyan" x1="150" x2="565" y1="190" y2="545" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#7ee7ff"/>
+      <stop offset="1" stop-color="#39a7ff"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="155" x2="520" y1="240" y2="615" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffd65a"/>
+      <stop offset="1" stop-color="#ffae19"/>
+    </linearGradient>
+    <filter id="softShadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="18" stdDeviation="16" flood-color="#0b1b47" flood-opacity=".18"/>
+    </filter>
+  </defs>
+
+  <rect width="700" height="700" fill="none"/>
+  <path fill="#eaf2ff" d="M142 282c0-86 70-156 156-156 53 0 100 26 128 66 18-9 39-14 61-14 76 0 138 62 138 138 0 75-60 136-135 138H169c-59 0-107-48-107-107 0-47 31-88 80-65z"/>
+  <path fill="#f7fbff" d="M167 276c15-75 78-127 151-121 48 4 91 30 117 70 19-13 43-21 69-21 64 0 116 52 116 116 0 63-50 114-113 116H169c-49 0-88-40-88-88 0-43 30-78 86-72z"/>
+
+  <circle cx="565" cy="172" r="18" fill="#ffd65a"/>
+  <circle cx="112" cy="439" r="12" fill="#39a7ff"/>
+  <circle cx="624" cy="433" r="10" fill="#ff6b6b"/>
+  <circle cx="209" cy="158" r="8" fill="#7ee7ff"/>
+
+  <g opacity=".9">
+    <path fill="#1557d6" d="M108 486c-44-31-57-83-57-83s58-2 94 39c23 27 28 62 28 62s-37 5-65-18z"/>
+    <path d="M87 421c35 31 61 61 82 86" fill="none" stroke="#dff7ff" stroke-width="3" stroke-linecap="round"/>
+    <path fill="#ffbd2e" d="M157 545c-53 13-100-15-100-15s44-38 98-29c35 6 61 30 61 30s-26 7-59 14z"/>
+    <path d="M83 528c49-5 88-2 128 6" fill="none" stroke="#fff2b8" stroke-width="3" stroke-linecap="round"/>
+  </g>
+
+  <g opacity=".92">
+    <path fill="#1557d6" d="M566 423c48-27 66-76 66-76s-57-7-97 30c-27 25-35 62-35 62s35 2 66-16z"/>
+    <path d="M615 365c-33 27-66 53-109 78" fill="none" stroke="#dff7ff" stroke-width="3" stroke-linecap="round"/>
+    <path fill="#ffbd2e" d="M538 295c30-48 84-62 84-62s10 58-27 101c-24 28-59 39-59 39s-17-39 2-78z"/>
+    <path d="M609 255c-18 43-41 78-73 117" fill="none" stroke="#fff2b8" stroke-width="3" stroke-linecap="round"/>
+  </g>
+
+  <g filter="url(#softShadow)">
+    <rect x="134" y="230" width="432" height="280" rx="18" fill="#09155a"/>
+    <rect x="158" y="256" width="384" height="225" rx="8" fill="#fff"/>
+    <rect x="158" y="256" width="384" height="44" rx="8" fill="#f2f7ff"/>
+    <circle cx="184" cy="278" r="6" fill="#ff6b6b"/>
+    <circle cx="205" cy="278" r="6" fill="#ffbd2e"/>
+    <circle cx="226" cy="278" r="6" fill="#39c788"/>
+    <rect x="253" y="270" width="92" height="15" rx="7.5" fill="#dbe8ff"/>
+    <rect x="366" y="270" width="145" height="15" rx="7.5" fill="#dbe8ff"/>
+  </g>
+
+  <g>
+    <rect x="184" y="330" width="150" height="118" rx="10" fill="#f5f9ff" stroke="#d8e4f6" stroke-width="3"/>
+    <text x="205" y="360" fill="#243352" font-family="Arial, sans-serif" font-size="18" font-weight="700">Orders</text>
+    <rect x="205" y="397" width="18" height="31" rx="4" fill="#39a7ff"/>
+    <rect x="235" y="381" width="18" height="47" rx="4" fill="#1557d6"/>
+    <rect x="265" y="366" width="18" height="62" rx="4" fill="#ffbd2e"/>
+    <rect x="295" y="345" width="18" height="83" rx="4" fill="#ff6b6b"/>
+    <path d="M204 429h112" stroke="#d8e4f6" stroke-width="4" stroke-linecap="round"/>
+
+    <rect x="364" y="330" width="152" height="118" rx="10" fill="#f5f9ff" stroke="#d8e4f6" stroke-width="3"/>
+    <text x="385" y="360" fill="#243352" font-family="Arial, sans-serif" font-size="18" font-weight="700">Stock</text>
+    <circle cx="431" cy="400" r="38" fill="none" stroke="#d8e4f6" stroke-width="18"/>
+    <path d="M431 362a38 38 0 0 1 37 46" fill="none" stroke="#1557d6" stroke-width="18" stroke-linecap="round"/>
+    <path d="M468 408a38 38 0 0 1-51 26" fill="none" stroke="#ffbd2e" stroke-width="18" stroke-linecap="round"/>
+    <path d="M417 434a38 38 0 0 1-22-44" fill="none" stroke="#39a7ff" stroke-width="18" stroke-linecap="round"/>
+
+    <rect x="184" y="462" width="332" height="9" rx="4.5" fill="#e7eefb"/>
+    <rect x="184" y="486" width="230" height="9" rx="4.5" fill="#e7eefb"/>
+    <rect x="433" y="486" width="83" height="9" rx="4.5" fill="#39c788"/>
+  </g>
+
+  <g>
+    <path fill="url(#gold)" d="M283 500h126l20 71H263l20-71z"/>
+    <path fill="#d58a00" d="M296 500h100l12 31H284l12-31z"/>
+    <path fill="#ffcc4d" d="M262 571h168v22H262z"/>
+  </g>
+
+  <g transform="translate(80 512)">
+    <circle cx="34" cy="35" r="24" fill="#09155a"/>
+    <circle cx="34" cy="35" r="11" fill="#fff"/>
+    <rect x="54" y="24" width="82" height="24" rx="12" fill="url(#blue)"/>
+    <path fill="#ffbd2e" d="M83 10h44l22 26H101z"/>
+    <path fill="#39a7ff" d="M66 10h28l18 26H84z"/>
+    <circle cx="132" cy="58" r="15" fill="#09155a"/>
+    <circle cx="132" cy="58" r="7" fill="#fff"/>
+  </g>
+
+  <g transform="translate(468 482)">
+    <path d="M56 0c28 0 50 22 50 50H6C6 22 28 0 56 0z" fill="#fff" stroke="#09155a" stroke-width="8"/>
+    <rect x="4" y="48" width="104" height="18" rx="9" fill="#09155a"/>
+    <path d="M39 2c0-16 34-16 34 0" fill="none" stroke="#09155a" stroke-width="8" stroke-linecap="round"/>
+    <path d="M28 32h56" stroke="#d8e4f6" stroke-width="6" stroke-linecap="round"/>
+  </g>
+
+  <g>
+    <path fill="url(#cyan)" d="M164 210c0-27 22-49 49-49 20 0 37 12 45 29 6-3 13-5 20-5 24 0 44 20 44 44H164v-19z"/>
+    <path d="M185 229h158" stroke="#09155a" stroke-width="9" stroke-linecap="round"/>
+    <text x="188" y="214" fill="#09155a" font-family="Arial, sans-serif" font-size="25" font-weight="800">ERP</text>
+  </g>
+
+  <g>
+    <path d="M102 609h496" stroke="#09155a" stroke-width="10" stroke-linecap="round"/>
+    <path d="M143 627h414" stroke="#d8e4f6" stroke-width="5" stroke-linecap="round"/>
+  </g>
+</svg>
